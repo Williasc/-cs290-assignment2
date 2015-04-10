@@ -1,0 +1,8 @@
+body {font-family:helvetica;}
+
+dt:hover + dd{background-color:purple; color:white;}
+
+div { margin: 20px;}
+
+.outer-content {text-align:center; background-color: pink; width:75%;}
+.innter-content {text-align:center; margin:auto; background-color: lightblue; width:75%;}
